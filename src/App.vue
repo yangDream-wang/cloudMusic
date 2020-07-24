@@ -13,7 +13,7 @@
 import Home from './views/index/Home'
 import NavbarTop from 'components/NavbarTop'
 import MiniPlayer from 'components/MiniPlayer'
-import { Loading } from 'vant';
+import { Loading } from 'vant'
 export default {
   name:"app",
   components:{
