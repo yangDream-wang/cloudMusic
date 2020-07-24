@@ -5,7 +5,7 @@
     <keep-alive exclude="PlaylistDetail,Search" >
       <router-view ></router-view>
     </keep-alive>
-    <van-loading  vertical v-show="this.$store.state.isLoad" id="loading">努力加载中...</van-loading>
+    <van-loading  vertical v-show="this.$store.state.isLoad" id="loading">努力载入中...</van-loading>
   </div>
 </template>
 
