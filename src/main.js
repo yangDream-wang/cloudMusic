@@ -11,7 +11,6 @@ import FastClick from 'fastclick'
 
 
 Vue.config.debug = true;
-// ---------------------------------------------------------------
 // 图片懒加载
 Vue.use(Lazyload);
 //注册后可以为组件添加懒加载↓
